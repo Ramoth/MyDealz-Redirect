@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MyDealz Weiterleitung
 // @namespace    http://www.mydealz.de
-// @version      1.0
+// @version      1.1
 // @description  Automatische Weiterleitung von heißen Dealz auf aktuelle Dealz
 // @author       Ramoth
 // @include      http://www.mydealz.de/deals
